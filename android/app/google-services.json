@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814663602067",
+    "project_id": "flutterfirebase-dc54c",
+    "storage_bucket": "flutterfirebase-dc54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814663602067:android:60dcbbd38d905140f5e266",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBhfNN1rvOCNwCbH6klQtNN_RYtl5x_NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
